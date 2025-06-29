@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Donald Christian (pokamdonald)
+# 👋 Hi, I'm Donald Christ
 
 🎓 Computer Engineering Graduate | 📱 Mobile App Developer | 🤖 AI/ML Learner
 
