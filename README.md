@@ -1,42 +1,54 @@
-# 👋 Hi, I'm Donald Christ
+👋 Hi, I'm Donald Christian
 
-🎓 Computer Engineering Graduate | 📱 Mobile App Developer | 🤖 AI/ML Learner
+🎓 MSc Artificial Intelligence Systems Student
+☁️ Future AWS AI Engineer Nanodegree Graduate (Udacity × Amazon)
+🤖 AI/ML Practitioner | Cloud & Data Enthusiast
 
-I'm a passionate developer focused on building mobile apps that solve real-world problems. I specialize in **Flutter** and **native Android (Java)** development. Currently, I’m working as a **Flutter Developer**, building production-level UI while preparing for backend API integrations.
+I am an AI-focused engineer passionate about building intelligent systems that combine machine learning, data, and cloud technologies. I recently completed the Future AWS AI Engineer Nanodegree, sponsored by Amazon, where I learned to design, deploy, and optimize AI solutions using AWS services.
 
-Alongside mobile development, I’m actively learning about **Artificial Intelligence and Machine Learning** to expand my technical horizon and build smarter applications in the future.
+I am currently pursuing a Master’s degree in Artificial Intelligence Systems, deepening my knowledge in areas such as machine learning, data mining, deep learning, and intelligent system design.
 
----
+My long-term mission is to build AI solutions that solve impactful, real-world problems — especially for underserved communities.
 
-## 🚀 My Journey
+🚀 What I’ve Done
 
-- 📱 Built and published a native Android app (Java) for an NGO on the **Google Play Store**
-- 🛠️ Currently developing a Flutter-based mobile app for a company (frontend + REST API integration)
-- 🌐 Experience building REST APIs using **Spring Boot**, with data storage via **MongoDB** and **MySQL**
-- 🤖 Use modern tools like **ChatGPT** and **GitHub Copilot** to boost productivity and accelerate learning
+🎓 Completed the Future AWS AI Engineer Nanodegree (Udacity × Amazon)
+– Included hands-on projects with Sagemaker, Lambda, Bedrock, and cloud-deployed ML pipelines
+- Work also on Building some Android App and Flutter based Application
 
----
+📘 Currently completing my MSc in AI Systems
+🤖 Built end-to-end machine learning projects for classification, prediction, and NLP
+☁️ Experienced with deploying and working with AI workloads on AWS
+📊 Strong background in data analysis, data mining, and model evaluation
 
-## 💻 Tech Stack
+💻 Tech & Skills
 
-**Languages:** Dart, Java, Python, C#  
-**Mobile:** Flutter, Android (Java), Firebase  
-**Backend:** Spring Boot (Java), Node.js (basic)  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, VS Code, Android Studio
+🧠 AI & Machine Learning
+Machine Learning · Data Mining · Deep Learning (basic)
+Model Training & Evaluation · NLP · Computer Vision (learning)
 
----
+☁️ Cloud / AWS
+SageMaker · AWS Lambda · AWS Bedrock · S3
+API Gateway · CloudWatch · IAM
 
-## 📈 Current Goals
+🛠️ Programming
+Python · NumPy · Pandas · Matplotlib · Scikit-Learn
 
-- 🔁 Master full-stack mobile development using Flutter + backend APIs
-- 🤖 Continue learning **AI/ML** and integrate it into future app projects
-- 💼 Collaborate on open-source or startup tech teams
+🧩 Other Tools
+Git · GitHub · Jupyter Notebook · Postman
 
----
+🎯 Current Focus
+📘 Advancing in AI Systems throughout my master’s program
+🤖 Building real-world machine learning and AI projects
+☁️ Mastering AWS cloud AI pipelines and GenAI tools
+🔍 Improving skills in Python, ML modeling, data engineering, and GenAI integrations
+🧠 Preparing for a career as an AI Engineer / ML Engineer / Cloud AI Specialist
 
-## 📫 Let’s Connect
+🤝 Open to Collaborations
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/donaldchrist/)
-- 📧 pokamdonald@gmail.com  
-- 🛠️ Check out my pinned projects below 👇
+I’m always happy to connect with people working on:
+AI/ML models
+Cloud-based AI systems
+Research or academic projects
+Data-driven solutions
+GenAI + RAG applications
